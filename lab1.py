@@ -87,8 +87,8 @@ TotalArea = float(cir*h+2*CircleArea)
 print("Total area of the cylinder: " + str(TotalArea))
 
 #e
-firstName = [input("Please enter your first name: ")]
-surname = [input("Please enter your surname: ")]
+firstName = input("Please enter your first name: ")
+surname = input("Please enter your surname: ")
 alist = (firstName[0])
 blist = (surname[0])
 print (alist + blist)
