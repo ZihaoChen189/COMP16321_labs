@@ -1,4 +1,5 @@
-from tkinter import Tk, PhotoImage, Button, messagebox
+from tkinter
+ import Tk, PhotoImage, Button, messagebox
 window = Tk()
 window.title("OXO Game")
 window.geometry("300x300")
